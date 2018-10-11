@@ -46,20 +46,20 @@ img {
   <h2>Wills Wing <br>Sport 2 Polar</h2>
   <div>
   <form oninput="polarFunction()">
-    <input id="aa" type="teL" pattern="[0-9]*" name="a"  value="22" /> mph<br>
-    <output id="polar1" name="result">-189</output>  ft/min
+    <input id="speed" type="tel" pattern="[0-9]*" value="22" /> mph<br>
+    <output id="polar">-189</output>  ft/min
   </form>
 </div>
 <img src="https://www.willswing.com/wp-content/uploads/2013/07/polarchart_1.gif">
 
 <script>
 function polarFunction(){
-  var x = document.getElementById("aa").value;
+  var x = document.getElementById("speed").value;
   var a = -1.0797;
   var b = 52.466;
   var c = -820.183;
   var y = a * x * x + b * x + c
-  document.getElementById("polar1").innerHTML = Math.round(y);
+  document.getElementById("polar").innerHTML = Math.round(y);
 }
 </script>
 

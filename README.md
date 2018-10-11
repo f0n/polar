@@ -9,5 +9,5 @@ The equations are based on the article [Polar Data for Wills Wing Hang Gliders](
 
 Future development includes: 
 * Discrimination between mobile and desktop browser stylesheets
-* Selection of glider parameters
+* Selection of glider parameters with [StackOverflow](https://stackoverflow.com/questions/11943436/javascript-if-statement-based-on-dropdown-menu-value) and [Selection](https://www.w3schools.com/tags/tryit.asp?filename=tryhtml_select)
 * Integration with microcontroller and/or variometer

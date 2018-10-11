@@ -54,8 +54,12 @@ img {
 
 <script>
 function polarFunction(){
-  var speed = document.getElementById("aa").value;
-  document.getElementById("polar1").innerHTML = Math.round((-1.0797 * speed * speed) + (52.466 * speed - 820.183))
+  var x = document.getElementById("aa").value;
+  var a = -1.0797;
+  var b = 52.466;
+  var c = -820.183;
+  var y = a * x * x + b * x + c
+  document.getElementById("polar1").innerHTML = Math.round(y);
 }
 </script>
 

@@ -20,6 +20,8 @@ Based on the Wills Wing graph, the following values are calcualated for the Spor
 
 <img src="https://latex.codecogs.com/gif.latex?\dpi{150}&space;\large&space;a&space;=&space;-1.0797" title="\large a = -1.0797" />
 
-<img src="https://latex.codecogs.com/gif.latex?\dpi{150}&space;\large&space;b&space;=&space;-1.0797" title="\large b = -1.0797" />
+<img src="https://latex.codecogs.com/gif.latex?\dpi{150}&space;\large&space;b&space;=&space;52.466" title="\large b = 52.466" />
 
-<img src="https://latex.codecogs.com/gif.latex?\dpi{150}&space;\large&space;v&space;=&space;-1.0797" title="\large c = -1.0797" />
+<img src="https://latex.codecogs.com/gif.latex?\dpi{150}&space;\large&space;c&space;=&space;-820.183" title="\large c = -820.183" />
+
+Note that these values are from inspection of the graph and do not represent actual flight performance. Future flight data will help refine the coefficients. 

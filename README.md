@@ -15,3 +15,11 @@ Future development includes:
 The idea is to find parameters a, b, and c for the polar equation such that:
 
 <img src="https://latex.codecogs.com/gif.latex?\dpi{150}&space;\large&space;V_{sink}&space;=&space;a&space;{V_{air}}^2&space;&plus;&space;b&space;V_{air}&space;&plus;&space;c" title="\large V_{sink} = a {V_{air}}^2 + b V_{air} + c" />
+
+Based on the Wills Wing graph, the following values are calcualated for the Sport 2: 
+
+<img src="https://latex.codecogs.com/gif.latex?\dpi{150}&space;\large&space;a&space;=&space;-1.0797" title="\large a = -1.0797" />
+
+<img src="https://latex.codecogs.com/gif.latex?\dpi{150}&space;\large&space;b&space;=&space;-1.0797" title="\large b = -1.0797" />
+
+<img src="https://latex.codecogs.com/gif.latex?\dpi{150}&space;\large&space;v&space;=&space;-1.0797" title="\large c = -1.0797" />

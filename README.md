@@ -13,4 +13,5 @@ Future development includes:
 * Integration with microcontroller and/or variometer
 
 The idea is to find parameters a, b, and c for the polar equation such that:
+
 <img src="https://latex.codecogs.com/gif.latex?V_{sink}&space;=&space;a&space;{V_{air}}^2&space;&plus;&space;b&space;V_{air}&space;&plus;&space;c" title="V_{sink} = a {V_{air}}^2 + b V_{air} + c" />

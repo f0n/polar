@@ -13,4 +13,4 @@ Future development includes:
 * Integration with microcontroller and/or variometer
 
 The idea is to find parameters a, b, and c for the polar equation such that:
-<img src="https://latex.codecogs.com/svg.latex?\Large&space;x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" title="\Large V_sink = a V_{air}^2 + b V_{air} + c" />
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;V_sink = a V_{air}^2 + b V_{air} + c" title="\Large V_sink = a V_{air}^2 + b V_{air} + c" />
